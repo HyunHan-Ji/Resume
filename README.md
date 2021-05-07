@@ -37,11 +37,11 @@
 찜질방에 관한 내용을 자바로 통신시스템 구축
 
 ### 3-2(20-2) 클라우드 컴퓨팅
-AWS Rekognition서비스를 활용한 마스크 미착용자 검출 프로그램
+AWS Rekognition서비스를 활용한 마스크 미착용자 검출 프로그램<br>
 https://github.com/HyunHan-Ji/Cloud_Computing_Term_Project
 
 ### 4-1(21-1) 캡스톤디자인, 창업동아리
-IoT기반 반려동물 케어 시스템
+IoT기반 반려동물 케어 시스템<br>
 https://github.com/HyunHan-Ji/BigData_Capstone_Design
 
 ### 4-1(21-1) 웹서버구축

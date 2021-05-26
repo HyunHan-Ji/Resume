@@ -49,7 +49,6 @@ https://github.com/HyunHan-Ji/BigData_Capstone_Design
 
 ## 전공 이수 학점
 전공 평균 평점 4.07 (3-2까지) <br>
-과목명 클릭시 git으로 이동(예정)
 <table>
   <thead>
     <th>년도</th>

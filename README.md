@@ -60,7 +60,7 @@ https://github.com/HyunHan-Ji/BigData_Capstone_Design
     <tr>
       <td>2016-1</td>
       <td>1-1</td>
-      <td>유헬스기초프로그래밍1</td>
+      <td><a href="https://github.com/HyunHan-Ji/1-1_U-Health-Basic-of-Programming-I">유헬스기초프로그래밍1</a></td>
       <td>4.5</td>
     </tr>
   <tr>

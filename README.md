@@ -48,7 +48,8 @@ https://github.com/HyunHan-Ji/BigData_Capstone_Design
 공공 데이터를 활용한 생활 편의 웹
 
 ## 전공 이수 학점
-전공 평균 평점 4.07 (3-2까지)
+전공 평균 평점 4.07 (3-2까지) <br>
+과목명 클릭시 git으로 이동(예정)
 <table>
   <thead>
     <th>년도</th>

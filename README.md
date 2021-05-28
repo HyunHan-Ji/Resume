@@ -64,10 +64,10 @@ https://github.com/HyunHan-Ji/BigData_Capstone_Design
       <td>4.5</td>
     </tr>
   <tr>
-    <td class="tg-0pky">2016-2</td>
-    <td class="tg-0pky">1-2</td>
-    <td class="tg-0pky">유헬스기초프로그래밍2</td>
-    <td class="tg-0lax">3.5</td>
+    <td>2016-2</td>
+    <td>1-2</td>
+    <td><a href = "https://github.com/HyunHan-Ji/1-2_U-Health-Basic-of-Programming-II">유헬스기초프로그래밍2</a></td>
+    <td>3.5</td>
   </tr>
   <tr>
     <td class="tg-0pky" rowspan="4">2019-1</td>

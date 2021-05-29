@@ -70,10 +70,10 @@ https://github.com/HyunHan-Ji/BigData_Capstone_Design
     <td>3.5</td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="4">2019-1</td>
-    <td class="tg-0pky" rowspan="4">2-1</td>
-    <td class="tg-0pky">C프로그래밍</td>
-    <td class="tg-0lax">4.5</td>
+    <td rowspan="4">2019-1</td>
+    <td rowspan="4">2-1</td>
+    <td><a href="https://github.com/HyunHan-Ji/2-1_C-programming">C프로그래밍</a></td>
+    <td>4.5</td>
   </tr>
   <tr>
     <td class="tg-0pky">논리설계및실험</td>

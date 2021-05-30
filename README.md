@@ -76,16 +76,16 @@ https://github.com/HyunHan-Ji/BigData_Capstone_Design
     <td>4.5</td>
   </tr>
   <tr>
-    <td class="tg-0pky">논리설계및실험</td>
-    <td class="tg-0lax">4.0</td>
+    <td>논리설계및실험</td>
+    <td>4.0</td>
   </tr>
   <tr>
     <td class="tg-0pky">데이터사이언스기초</td>
     <td class="tg-0lax">3.0</td>
   </tr>
   <tr>
-    <td class="tg-0pky">파이썬과학프로그래밍기초</td>
-    <td class="tg-0lax">4.5</td>
+    <td><a href="https://github.com/HyunHan-Ji/2-1_Introduction-to-scientific-programming-in-python">파이썬과학프로그래밍기초</a></td>
+    <td>4.5</td>
   </tr>
   <tr>
     <td class="tg-0pky" rowspan="5">2019-2</td>

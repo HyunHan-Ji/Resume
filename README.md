@@ -81,7 +81,7 @@ https://github.com/HyunHan-Ji/BigData_Capstone_Design
   </tr>
   <tr>
     <td>데이터사이언스기초</td>
-    <td">3.0</td>
+    <td>3.0</td>
   </tr>
   <tr>
     <td><a href="https://github.com/HyunHan-Ji/2-1_Introduction-to-scientific-programming-in-python">파이썬과학프로그래밍기초</a></td>

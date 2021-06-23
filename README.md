@@ -88,7 +88,7 @@ https://github.com/HyunHan-Ji/BigData_Capstone_Design
     <td>4.5</td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="5">2019-2</td>
+    <td rowspan="5">2019-2</td>
     <td class="tg-0pky" rowspan="5">2-2</td>
     <td class="tg-0pky">데이터베이스</td>
     <td class="tg-0lax">4.5</td>

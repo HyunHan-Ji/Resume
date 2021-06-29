@@ -49,6 +49,7 @@ https://github.com/HyunHan-Ji/BigData_Capstone_Design
 
 ## 전공 이수 학점
 전공 평균 평점 4.07 (3-2까지) <br>
+
 <table>
   <thead>
     <th>년도</th>
@@ -57,12 +58,12 @@ https://github.com/HyunHan-Ji/BigData_Capstone_Design
     <th>학기구분(4.5만점)</th>
   </thead>
   <tbody>
-    <tr>
+   <tr>
       <td>2016-1</td>
       <td>1-1</td>
       <td><a href="https://github.com/HyunHan-Ji/1-1_U-Health-Basic-of-Programming-I">유헬스기초프로그래밍1</a></td>
       <td>4.5</td>
-    </tr>
+  </tr>
   <tr>
     <td>2016-2</td>
     <td>1-2</td>
@@ -103,7 +104,7 @@ https://github.com/HyunHan-Ji/BigData_Capstone_Design
   </tr>
   <tr>
     <td>자료구조</td>
-    <td">4.5</td>
+    <td>4.5</td>
   </tr>
   <tr>
     <td>자바프로그래밍2</td>
@@ -117,7 +118,7 @@ https://github.com/HyunHan-Ji/BigData_Capstone_Design
   </tr>
   <tr>
     <td>소프트웨어개론</td>
-    <td">4.5</td>
+    <td>4.5</td>
   </tr>
   <tr>
     <td>신호및시스템</td>
@@ -157,19 +158,19 @@ https://github.com/HyunHan-Ji/BigData_Capstone_Design
     <td rowspan="4">2021-1</td>
     <td rowspan="4">4-1</td>
     <td>데이터베이스시스템</td>
-    <td></td>
+    <td>4.0</td>
   </tr>
   <tr>
     <td>빅데이터캡스톤디자인</td>
-    <td></td>
+    <td>4.0</td>
   </tr>
   <tr>
     <td>웹서버구축</td>
-    <td></td>
+    <td>3.5</td>
   </tr>
   <tr>
     <td>웹프로그래밍</td>
-    <td></td>
+    <td>4.0</td>
   </tr>
 </tbody>
 </table>

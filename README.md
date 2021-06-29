@@ -90,86 +90,86 @@ https://github.com/HyunHan-Ji/BigData_Capstone_Design
   <tr>
     <td rowspan="5">2019-2</td>
     <td rowspan="5">2-2</td>
-    <td class="tg-0pky">데이터베이스</td>
-    <td class="tg-0lax">4.5</td>
+    <td>데이터베이스</td>
+    <td>4.5</td>
   </tr>
   <tr>
-    <td class="tg-0pky">데이터통신</td>
-    <td class="tg-0lax">3.5</td>
+    <td>데이터통신</td>
+    <td>3.5</td>
   </tr>
   <tr>
-    <td class="tg-0pky">이산구조론</td>
-    <td class="tg-0lax">4.5</td>
+    <td>이산구조론</td>
+    <td>4.5</td>
   </tr>
   <tr>
-    <td class="tg-0pky">자료구조</td>
-    <td class="tg-0lax">4.5</td>
+    <td>자료구조</td>
+    <td">4.5</td>
   </tr>
   <tr>
-    <td class="tg-0pky">자바프로그래밍2</td>
-    <td class="tg-0lax">4.5</td>
+    <td>자바프로그래밍2</td>
+    <td>4.5</td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="6">2020-1</td>
-    <td class="tg-0pky" rowspan="6">3-1</td>
-    <td class="tg-0pky">C++프로그래밍</td>
-    <td class="tg-0lax">3.5</td>
+    <td rowspan="6">2020-1</td>
+    <td rowspan="6">3-1</td>
+    <td>C++프로그래밍</td>
+    <td>3.5</td>
   </tr>
   <tr>
-    <td class="tg-0pky">소프트웨어개론</td>
-    <td class="tg-0lax">4.5</td>
+    <td>소프트웨어개론</td>
+    <td">4.5</td>
   </tr>
   <tr>
-    <td class="tg-0pky">신호및시스템</td>
-    <td class="tg-0lax">4.5</td>
+    <td>신호및시스템</td>
+    <td>4.5</td>
   </tr>
   <tr>
-    <td class="tg-0pky">운영체제</td>
-    <td class="tg-0lax">4.0</td>
+    <td>운영체제</td>
+    <td>4.0</td>
   </tr>
   <tr>
-    <td class="tg-0lax">윈도우프로그래밍</td>
-    <td class="tg-0lax">4.5</td>
+    <td>윈도우프로그래밍</td>
+    <td>4.5</td>
   </tr>
   <tr>
-    <td class="tg-0lax">정보보호론</td>
-    <td class="tg-0lax">4.0</td>
+    <td>정보보호론</td>
+    <td>4.0</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="4">2020-2</td>
-    <td class="tg-0lax" rowspan="4">3-2</td>
-    <td class="tg-0lax">머신러닝</td>
-    <td class="tg-0lax">2.5</td>
+    <td rowspan="4">2020-2</td>
+    <td rowspan="4">3-2</td>
+    <td>머신러닝</td>
+    <td>2.5</td>
   </tr>
   <tr>
-    <td class="tg-0lax">빅데이터개론</td>
-    <td class="tg-0lax">4.5</td>
+    <td>빅데이터개론</td>
+    <td>4.5</td>
   </tr>
   <tr>
-    <td class="tg-0lax">선형대수</td>
-    <td class="tg-0lax">4.0</td>
+    <td>선형대수</td>
+    <td>4.0</td>
   </tr>
   <tr>
-    <td class="tg-0lax">클라우드컴퓨팅</td>
-    <td class="tg-0lax">4.0</td>
+    <td>클라우드컴퓨팅</td>
+    <td>4.0</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="4">2021-1</td>
-    <td class="tg-0lax" rowspan="4">4-1</td>
-    <td class="tg-0lax">데이터베이스시스템</td>
-    <td class="tg-0lax"></td>
+    <td rowspan="4">2021-1</td>
+    <td rowspan="4">4-1</td>
+    <td>데이터베이스시스템</td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0lax">빅데이터캡스톤디자인</td>
-    <td class="tg-0lax"></td>
+    <td>빅데이터캡스톤디자인</td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0lax">웹서버구축</td>
-    <td class="tg-0lax"></td>
+    <td>웹서버구축</td>
+    <td></td>
   </tr>
   <tr>
-    <td class="tg-0lax">웹프로그래밍</td>
-    <td class="tg-0lax"></td>
+    <td>웹프로그래밍</td>
+    <td></td>
   </tr>
 </tbody>
 </table>

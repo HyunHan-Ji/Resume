@@ -48,7 +48,7 @@ https://github.com/HyunHan-Ji/BigData_Capstone_Design
 공공 데이터를 활용한 생활 편의 웹
 
 ## 전공 이수 학점
-전공 평균 평점 4.07 (3-2까지) <br>
+전공 평균 평점 4.02 / 4.5 <br>
 
 <table>
   <thead>
@@ -172,5 +172,10 @@ https://github.com/HyunHan-Ji/BigData_Capstone_Design
     <td>웹프로그래밍</td>
     <td>4.0</td>
   </tr>
+  <tr>
+    <td>2021-2</td>
+    <td>4-2</td>
+    <td>인턴실습</td>
+   </tr>
 </tbody>
 </table>

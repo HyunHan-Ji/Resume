@@ -176,6 +176,7 @@ https://github.com/HyunHan-Ji/BigData_Capstone_Design
     <td>2021-2</td>
     <td>4-2</td>
     <td>인턴실습</td>
+    <td></td>
    </tr>
 </tbody>
 </table>

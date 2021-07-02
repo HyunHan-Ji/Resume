@@ -45,7 +45,7 @@ IoT기반 반려동물 케어 시스템<br>
 https://github.com/HyunHan-Ji/BigData_Capstone_Design
 
 ### 4-1(21-1) 웹서버구축
-공공 데이터를 활용한 생활 편의 웹
+공공 데이터를 활용한 생활 편의 웹<br>
 https://github.com/HyunHan-Ji/Web_Server_Building_Project
 
 ## 전공 이수 학점

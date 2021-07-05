@@ -166,7 +166,7 @@ https://github.com/HyunHan-Ji/Web_Server_Building_Project
     <td>4.0</td>
   </tr>
   <tr>
-    <td>웹서버구축</td>
+    <td><a href="https://github.com/HyunHan-Ji/Web_Server_building">웹서버구축</a></td>
     <td>3.5</td>
   </tr>
   <tr>

@@ -162,7 +162,7 @@ https://github.com/HyunHan-Ji/Web_Server_Building_Project
     <td>4.0</td>
   </tr>
   <tr>
-    <td>빅데이터캡스톤디자인</td>
+    <td><a href="https://github.com/HyunHan-Ji/BigData_Capstone_Design">빅데이터캡스톤디자인</a></td>
     <td>4.0</td>
   </tr>
   <tr>
@@ -170,7 +170,7 @@ https://github.com/HyunHan-Ji/Web_Server_Building_Project
     <td>3.5</td>
   </tr>
   <tr>
-    <td>웹프로그래밍</td>
+    <td><a href="https://github.com/HyunHan-Ji/4-1_Web_Programing">웹프로그래밍</a></td>
     <td>4.0</td>
   </tr>
   <tr>

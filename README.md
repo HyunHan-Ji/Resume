@@ -92,7 +92,7 @@ https://github.com/HyunHan-Ji/Web_Server_Building_Project
   <tr>
     <td rowspan="5">2019-2</td>
     <td rowspan="5">2-2</td>
-    <td>데이터베이스</td>
+    <td><a href="https://github.com/HyunHan-Ji/2-2_Database">데이터베이스</a></td>
     <td>4.5</td>
   </tr>
   <tr>

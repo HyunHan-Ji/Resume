@@ -49,6 +49,10 @@ https://github.com/HyunHan-Ji/BigData_Capstone_Design
 공공 데이터를 활용한 생활 편의 웹<br>
 https://github.com/HyunHan-Ji/Web_Server_Building_Project
 
+### 친구부탁) JSON to Excel
+JSON형식으로 저장된 텍스트파일을 Excel로 변환<br>
+https://github.com/HyunHan-Ji/JSON_to_Excel
+
 ## 전공 이수 학점
 전공 평균 평점 4.02 / 4.5 <br>
 

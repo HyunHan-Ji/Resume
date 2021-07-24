@@ -100,25 +100,25 @@ https://github.com/HyunHan-Ji/Web_Server_Building_Project
     <td>3.5</td>
   </tr>
   <tr>
-    <td>이산구조론</td>
+    <td><a href="https://github.com/HyunHan-Ji/2-2_Discrete-Mathematics">이산구조론</a></td>
     <td>4.5</td>
   </tr>
   <tr>
-    <td>자료구조</td>
+    <td><a href="https://github.com/HyunHan-Ji/2-2_Data-Structure">자료구조</a></td>
     <td>4.5</td>
   </tr>
   <tr>
-    <td>자바프로그래밍2</td>
+    <td><a href="https://github.com/HyunHan-Ji/2-2_Java-Programming-II">자바프로그래밍2<a></td>
     <td>4.5</td>
   </tr>
   <tr>
     <td rowspan="6">2020-1</td>
     <td rowspan="6">3-1</td>
-    <td>C++프로그래밍</td>
+    <td><a href="https://github.com/HyunHan-Ji/3-1_Cpp-Programming">C++프로그래밍</a></td>
     <td>3.5</td>
   </tr>
   <tr>
-    <td>소프트웨어개론</td>
+    <td><a href="https://github.com/HyunHan-Ji/3-1_Software-Introduction">소프트웨어개론</a></td>
     <td>4.5</td>
   </tr>
   <tr>
@@ -126,11 +126,11 @@ https://github.com/HyunHan-Ji/Web_Server_Building_Project
     <td>4.5</td>
   </tr>
   <tr>
-    <td>운영체제</td>
+    <td><a href="https://github.com/HyunHan-Ji/3-1_Operating-Systems">운영체제</a></td>
     <td>4.0</td>
   </tr>
   <tr>
-    <td>윈도우프로그래밍</td>
+    <td><a href="https://github.com/HyunHan-Ji/3-1_Window-Programming">윈도우프로그래밍</a></td>
     <td>4.5</td>
   </tr>
   <tr>
@@ -140,19 +140,19 @@ https://github.com/HyunHan-Ji/Web_Server_Building_Project
   <tr>
     <td rowspan="4">2020-2</td>
     <td rowspan="4">3-2</td>
-    <td>머신러닝</td>
+    <td><a href="https://github.com/HyunHan-Ji/3-2_Machine-Learning">머신러닝</a></td>
     <td>2.5</td>
   </tr>
   <tr>
-    <td>빅데이터개론</td>
+    <td><a href="https://github.com/HyunHan-Ji/3-2_Bigdata-Introduction">빅데이터개론</a></td>
     <td>4.5</td>
   </tr>
   <tr>
-    <td>선형대수</td>
+    <td><a href="https://github.com/HyunHan-Ji/3-2_Linear-Algebra">선형대수</a></td>
     <td>4.0</td>
   </tr>
   <tr>
-    <td>클라우드컴퓨팅</td>
+    <td><a href="https://github.com/HyunHan-Ji/3-2_Cloud_Computing">클라우드컴퓨팅</a></td>
     <td>4.0</td>
   </tr>
   <tr>
@@ -162,11 +162,11 @@ https://github.com/HyunHan-Ji/Web_Server_Building_Project
     <td>4.0</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/HyunHan-Ji/BigData_Capstone_Design">빅데이터캡스톤디자인</a></td>
+    <td><a href="https://github.com/HyunHan-Ji/4-1_BigData-Capstone-Design">빅데이터캡스톤디자인</a></td>
     <td>4.0</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/HyunHan-Ji/Web_Server_building">웹서버구축</a></td>
+    <td><a href="https://github.com/HyunHan-Ji/4-1_Web-Server-building">웹서버구축</a></td>
     <td>3.5</td>
   </tr>
   <tr>

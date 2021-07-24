@@ -35,6 +35,7 @@
 ## 프로젝트
 ### 2-2(19-2) 데이터통신
 찜질방에 관한 내용을 자바로 통신시스템 구축
+https://github.com/HyunHan-Ji/Data-Communication-Project
 
 ### 3-2(20-2) 클라우드 컴퓨팅
 AWS Rekognition서비스를 활용한 마스크 미착용자 검출 프로그램<br>
